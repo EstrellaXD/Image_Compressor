@@ -7,6 +7,6 @@ pip install opencv-python
 ```
 ## 使用
 ```
-python Image_Compressor -n 4
+python Image_Compressor.py -n 4
 ```
 `-n` 压缩倍率，默认为 `2` 
